@@ -12,7 +12,7 @@ to use this mod, you will need 3 dependencies we will include both of them below
 - [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107)
 - [RadioExt](https://www.nexusmods.com/cyberpunk2077/mods/4591)
 - [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)
-- 
+
 This mod can be installed via the Vortex Mod Manager or manually!
 
 INSTRUCTIONS:
