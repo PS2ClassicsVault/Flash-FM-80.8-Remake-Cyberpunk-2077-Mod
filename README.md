@@ -3,7 +3,7 @@
 # Flash-FM-80.8-Remake-Cyberpunk-2077-Mod
 Flash FM 80.8 remake made for cyberpunk 2077
 
-This mod originally was featured on Nexus Mods, however due to a copyright violation on their website it was removed, however i worked on hard on this mod so i have uploaded it to internet archive to preserve it.
+This mod originally was featured on Nexus Mods, however due to a copyright violation on their website it was removed, however i worked on hard on this mod so i have uploaded it to github to preserve it.
 
 ## Requirements:
 
